@@ -1,0 +1,1 @@
+Shows tips and tricks on how to use Guilded, in the chatbar! Become undefeateble at Guilded trivia!
